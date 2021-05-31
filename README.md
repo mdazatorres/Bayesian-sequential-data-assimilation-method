@@ -26,16 +26,16 @@ In these files,  we define the transmission model and its numerical solution as 
 ## Output:
 
 ### Files
-Code*_post_params.pkl 
-Code*court_samples.pkl
-Code*court_solns.pkl
-Code*court_solns_plain.pkl
+- Code*_post_params.pkl 
+- Code*court_samples.pkl
+- Code*court_solns.pkl
+- Code*court_solns_plain.pkl
 
 ### Figures
-Code*court_*_I.png
-Code*court_*_D.png
-Code*court_*_cono_I.png
-Code*court_*_cono_D.png
+- Code*court_*_I.png
+- Code*court_*_D.png
+- Code*court_*_cono_I.png
+- Code*court_*_cono_D.png
 
 
 
